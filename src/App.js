@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Switch, Route } from 'react-router-dom';
-import { LandingPage, MenuPage, DashboardPage } from './pages';
+import { HomePage } from './pages';
 
 function App() {
     return ( <
@@ -9,16 +9,8 @@ function App() {
         <
         Route path = "/"
         exact = { true }
-        component = { LandingPage }
-        /> <
-        Route path = "/dashboard"
-        exact = { true }
-        component = { MenuPage }
-        /> <
-        Route path = "/dashboard/:id"
-        exact = { true }
-        component = { DashboardPage }
-        /> < /
+        component = { HomePage }
+        />< /
         Switch >
     );
 }
