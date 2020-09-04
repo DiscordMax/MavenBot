@@ -890,6 +890,12 @@ p-main {
     }
 }
 
+@media (max-width: 755px) {
+    .fnBotP {
+        display: none;
+    }
+}
+
 .maventest {
     margin-right: 16px;
     min-width: 250px;
