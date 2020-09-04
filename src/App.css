@@ -15,7 +15,7 @@
 
 .buttona {
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
 }
 body {
     margin: 0;
