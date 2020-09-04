@@ -32,6 +32,10 @@ body {
     color: #34383c;
 }
 
+a {
+    text-deoration: none;
+}
+
 .App-header {
     background-color: #343843;
     min-height: 100vh;
