@@ -32,7 +32,7 @@ body {
     color: #34383c;
 }
 
-a {
+.a {
     text-deoration: none;
 }
 
@@ -337,7 +337,7 @@ i.icon {
     -webkit-box-align: center;
     align-items: center;
     color: #34383c;
-    cursor: pointer;
+    cursor: not-allowed;
     min-height: 32px;
     min-width: 60px;
     width: unset;
@@ -399,7 +399,7 @@ button {
     -webkit-box-align: center;
     align-items: center;
     color: #2585FF;
-    cursor: pointer;
+    cursor: not-allowed;
     min-height: 32px;
     min-width: 60px;
     width: unset;
@@ -1204,10 +1204,10 @@ html[dir="ltr"] .kzhQvQ {
     border-radius: 4px;
     transition: all 0.3s ease-in-out 0s, visibility 0s linear 0s, z-index 0s linear 0.3s;
 }
-.button3 a {
+.button3:a {
     text-decoration: none;
 }
-.button4 a {
+.button4:a {
     text-decoration: none;
 }
 .ozbGB {
