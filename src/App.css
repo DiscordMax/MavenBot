@@ -12,6 +12,12 @@
         animation: App-logo-spin infinite 20s linear;
     }
 }
+.button3 a {
+    text-decoration: none;
+}
+.button4 a {
+    text-decoration: none;
+}
 
 body {
     margin: 0;
@@ -384,40 +390,6 @@ button {
     border-style: outset;
     border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
     border-image: initial;
-}
-
-.bhiRrt:hover {
-    white-space: nowrap;
-    user-select: none;
-    font-family: "Open Sans", Helvetica, arial, sans-serif;
-    line-height: 1;
-    font-weight: 400;
-    display: flex;
-    font-size: 13px;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    color: #2585FF;
-    cursor: not-allowed;
-    min-height: 32px;
-    min-width: 60px;
-    width: unset;
-    border-radius: 28px;
-    padding: 10px 25px;
-    transition: border 180ms ease-out 0s, background 180ms ease-out 0s;
-    background: #ffffff;
-    border-color: #ffffff;
-    border: none;
-    -webkit-transition-property: background-color, color, -webkit-box-shadow;
-    transition-property: background-color, color, -webkit-box-shadow;
-    transition-property: background-color, color, box-shadow;
-    transition-property: background-color, color, box-shadow, -webkit-box-shadow;
-    -webkit-transition-duration: .2s;
-    transition-duration: .2s;
-    justify-content: center;
-    transition-timing-function: ease-in-out;
-    transition-timing-function: ease-in-out;
 }
 
 .fxraPU {
@@ -1204,12 +1176,7 @@ html[dir="ltr"] .kzhQvQ {
     border-radius: 4px;
     transition: all 0.3s ease-in-out 0s, visibility 0s linear 0s, z-index 0s linear 0.3s;
 }
-.button3:a {
-    text-decoration: none;
-}
-.button4:a {
-    text-decoration: none;
-}
+
 .ozbGB {
     display: flex;
     -webkit-box-align: center;
