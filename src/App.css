@@ -890,7 +890,7 @@ p-main {
     }
 }
 
-@media (max-width: 755px) {
+@media (max-width: 800px) {
     .fnBotP {
         display: none;
     }
