@@ -658,7 +658,7 @@ p-main {
 }
 
 .button4 {
-    background-color: #23272a;
+    background-color: #99AAB5;
     /* Black but not Black */
     border: none;
     border-radius: 28px;
@@ -687,7 +687,7 @@ p-main {
 
 .button4:hover {
     opacity: 0.90;
-    background-color: #23272a;
+    background-color: #99AAB5;
     color: #fff;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
