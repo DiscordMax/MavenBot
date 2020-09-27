@@ -477,6 +477,16 @@ ul {
     min-height: 72px;
     padding: 0px 32px;
 }
+.hPOFYVv {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    background-color: rgb(36, 37, 42);
+    min-height: 72px;
+    padding: 0px 32px;
+}
 
 .tURVv {
     font-weight: bold;
