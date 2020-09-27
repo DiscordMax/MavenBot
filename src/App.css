@@ -610,7 +610,8 @@ p-main {
     /* Black but not Black */
     border: none;
     border-radius: 28px;
-    flex-shrink: 0;
+                        white-space: nowrap;
+                    flex-shrink: 0;
     color: white;
     line-height: 24px;
     padding: 16px 77px;
@@ -661,7 +662,8 @@ p-main {
     /* Black but not Black */
     border: none;
     border-radius: 28px;
-    flex-shrink: 0;
+                        white-space: nowrap;
+                    flex-shrink: 0;
     color: white;
     line-height: 24px;
     padding: 16px 89px;
