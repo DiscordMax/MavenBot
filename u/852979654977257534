@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>  
+    
+              <meta charset="utf-8" />
+            <link rel="shortcut icon" href="/favicon.ico" />
+                <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
+                <meta name="theme-color" content="#000000" />
+
+                <div>
+                    <title>Gregorious - Maven Discord Bot</title>
+                </div>
+                <div>
+                    <link rel="stylesheet" type="text/css" href="../src/App.css" />
+                </div>
+    <meta charset="windows-1252" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="theme-color" content="#2585FF" />
+    <meta property="og:type" content="dashboard, user" />
+    <meta data-n-head="ssr" data-hid="og:site_name" name="og:site_name" content="Maven Dashboard">
+    <meta property="og:author" content="Max Development" />
+    <meta property="og:title" content="Gregorious" />
+    <meta property="og:description" content="Find more about user Gregorious#0001!" />
+    <meta property="og:url" content="https://mavenbot.xyz/u/852979654977257534" />
+    <meta property="og:image" content="https://media.discordapp.net/attachments/861036542905942047/870429220038377543/image0.png" />
+    <meta property="og:image:width" content="307" />
+    <meta property="og:image:height" content="307" />
+    <meta property="og:locale" content="en_US" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="shortcut icon" href="../src/logo.svg" />
+    <link rel="apple-touch-icon" href="../src/logo.svg" />
+    <link rel="apple-touch-icon" sizes="72x72" href="../src/logo.svg" />
+    <link rel="apple-touch-icon" sizes="114x114" href="../src/logo.svg" />
+    <script type="text/javascript" src="../src/index.js"></script> 
+<style>
+        .actual-body {
+        background-color: rgb(23, 24, 27)!important;
+        }
+        body {
+        background-color: rgb(23, 24, 27)!important;
+        color: white!important;
+        }
+        .hero {
+        background-color: rgb(36, 37, 42)!important;
+        }
+        .notification {
+        background-color: rgb(36, 37, 42)!important;
+        }
+        .my-4 {
+         margin-top: 6rem!important;
+         margin-bottom: 1rem!important;
+        }
+        a:hover {
+    color: white!important;
+}
+        .hPOFYV {
+        background-color: rgb(36, 37, 42)!important;
+        }
+        .title {
+            color: white!important;
+            text-transform: none!important;
+        }
+        .p-about {
+            color: white;
+            opacity: 0.70;
+        }
+        
+        .crojIh {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(36, 37, 42);
+    transition: all 0.15s ease-in-out 0s;
+}
+    .info[data-v-b99e9a34] {
+    color: white!important;
+    }
+        .profile .subtitle.badges span[data-v-b99e9a34]:hover {
+    opacity: .75;
+}
+        .notification a:not(.button):not(.dropdown-item) {
+            text-decoration: none!important;
+}
+
+.profile .subtitle.badges span[data-v-b99e9a34] {
+    transition: opacity .2s ease-in-out;
+    opacity: 1;
+}
+        .fa, .fas {
+            color: white!important;
+        }
+        
+        .hlBFRk {
+    border-top: 1px solid rgb(48, 49, 52)!important;
+}
+        
+.tooltip {
+  position: relative;
+    opacity: 1!important;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+    opacity: 1!important;
+  top: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  opacity: 1!important;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+    font-size: .75em;
+    opacity: 1!important;
+}
+    /* number 2222 */
+        .tooltip2 {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip2 .tooltiptext2 {
+  visibility: hidden;
+  width: 157px;
+  background-color: black;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+  border-radius: 6px;
+  padding: 6px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.tooltip2 .tooltiptext2::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.tooltip2:hover .tooltiptext2 {
+  visibility: visible;
+        font-size: 13px;
+}
+        
+        
+        .rep {
+            margin-left: -8px;        
+        }
+        .a3{color:#7956d5;}
+        
+        @media (max-width: 970px) {
+.cJkLrKJ {
+    display: block!important;
+}
+        }
+    </style>
+</head>
+<body>
+<div>
+    
+                    <header class="m46j0y-1 hPOFYV">
+                    <span class="m46j0y-0 tURVv">MAVEN</span>
+                    <nav class="sc-10wb915-0 fxraPU">
+                        <ul class="sc-10wb915-1 kQtcqw">
+                            <li class="sc-10wb915-2 fnBotP">
+                                <a href="https://docs.mavenbot.xyz/scrims.html">Scrims</a>
+                                </li>
+                            <li class="sc-10wb915-2 fnBotP">
+                                <a href="https://docs.mavenbot.xyz/configs.html">Configuration</a>
+                                </li>
+                                <li class="sc-10wb915-2 fnBotP">
+                            <a href="https://docs.mavenbot.xyz/manage.html">Management</a>
+                            </li>
+                                <li class="sc-10wb915-2 fnBotP">
+                                    <a href="https://docs.mavenbot.xyz/">Docs</a>
+                                    </li>
+                            <li class="sc-10wb915-2 fnBotP">
+                            <a href="/about.html">About Us</a>
+                            </li>
+                                <li class="sc-10wb915-2 fnBotP">
+                            <a href="https://discord.gg/NNQkBWw">Support Server</a>
+                            </li>
+                                </ul>
+                                </nav>
+                                    <button class="sc-1x57bl6-0 bhiRrt" color="#2585FF">
+                                        Login
+                                        </button>
+                                    </header>
+                                    </div>
+    
+    <section class="hero" data-v-b99e9a34>
+                            <div class="hero-body" data-v-b99e9a34>
+                                <div class="container profile" data-v-b99e9a34>
+                                    <div class="avatar" data-v-b99e9a34>
+                                        <img alt="Gregorious Avatar" draggable="false" data-src="https://media.discordapp.net/attachments/861036542905942047/870429220038377543/image0.png" src="https://media.discordapp.net/attachments/861036542905942047/870429220038377543/image0.png" data-v-b99e9a34>
+                                    </div>
+                                    <h1 class="title" data-v-b99e9a34>Gregorious
+        </h1>
+                                    <div class="subtitle badges" data-v-b99e9a34>
+                                        <span class="icon tooltip" data-v-b99e9a34>
+                                            <i class="fas fa-code"></i>
+                                            <span class="tooltiptext">Lead Developer</span>
+                                        </span>
+                                        <span class="icon tooltip" data-v-b99e9a34>
+                                            <i class="fas fa-star"></i>
+                                            <span class="tooltiptext">Administrator</span>
+                                        </span>
+                                        <span class="icon tooltip" data-v-b99e9a34>
+                                            <i class="fas fa-wrench"></i>
+                                            <span class="tooltiptext">Moderator</span>
+                                        </span>
+                                      
+                                        <span class="icon tooltip" data-v-b99e9a34>
+                                            <i class="fas fa-gavel"></i>
+                                            <span class="tooltiptext">Staff</span>
+                                        </span>
+                                        <span class="icon tooltip" data-v-b99e9a34>
+                                            <i class="fas fa-headset"></i>
+                                            <span class="tooltiptext">Support Team</span>
+                                        </span>
+                                        <p class="has-text-weight-light p-about" data-v-b99e9a34>
+                                            Professional Developer from the UK, Verified Bot Developer, Developer of Maven.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+    <div class="sc-1659snh-0 crojIh">
+                <svg width="100vw" viewBox="0 0 1600 172" version="1.1" class="sc-19pxw8k-0 cEGins cJkLrKJ">
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="management" transform="translate(0.000000, -662.000000)" fill="#17181B">
+                <path class="cJkLrKJ" d="M1587.04257,834 L12.452526e-13,859 L26.452526e-13,688.258691 C29.5332614,693.129699 76.9868445,733.598761 111.52648,746.731071 C148.246948,760.692554 216.681269,709.893019 232.32492,703.474247 C247.968571,697.055475 295.15,668.875627 370.020982,756.032617 C444.891963,843.189608 600.394881,812.262331 698.698638,762.411429 C797.002396,712.560526 844.674188,740.365043 910.876993,769.066074 C977.079798,797.767105 1021.18561,732.251712 1066.6243,692.705164 C1112.06298,653.158616 1121.66475,678.354134 1158.98335,707.733731 C1196.30194,737.113328 1290.42041,726.187264 1349.05412,694.003383 C1407.68782,661.819501 1418.06978,662.900799 1466.4187,662.900799 C1498.65132,662.900799 1542.85927,690.848333 1599.04257,746.743401 L1599.04257,834 Z" id="Combined-Shape">
+                </path>
+                </g>
+                </g>
+                </svg>
+                </div>
+                        <div class="container my-4" data-v-b99e9a34>
+                            <div class="columns" data-v-b99e9a34>
+                                <div class="column is-3" data-v-b99e9a34>
+                                    <div class="notification" data-v-b99e9a34>
+                                        <div data-v-b99e9a34>
+                                            <p class="menu-label" data-v-b99e9a34>General Information</p>
+                                            <div class="info" data-v-b99e9a34>
+                                                <div data-v-b99e9a34>
+                                                    <a href="https://discord.com/users/852979654977257534" target="_blank" data-v-b99e9a34>
+                                                        <span class="icon" data-v-b99e9a34>
+                                                            <i class="fas fa-user rep"></i>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                                <div data-v-b99e9a34>Gregorious#0001
+              </div>
+                                            </div>
+                                            <div class="info" data-v-b99e9a34>
+                                                <div data-v-b99e9a34>
+                                                    <span class="icon tooltip2" data-v-b99e9a34>
+                                                        <i class="fas fa-fingerprint"></i>
+                                                           <span class="tooltiptext2">Discord account User ID</span>
+                                                    </span>
+                                                </div>
+                                                <div data-v-b99e9a34>852979654977257534</div>
+                                            </div>
+                                            <div class="info" data-v-b99e9a34>
+                                                <span class="icon" data-v-b99e9a34>
+                                                    <i class="fas fa-calendar rep"></i>
+                                                </span>
+                                                <div data-v-b99e9a34>Fri, Jun 11, 2021
+              </div>
+                                            </div>
+                                        </div>
+                                        <p class="menu-label" data-v-b99e9a34>Links</p>
+                                        <div class="socials" data-v-b99e9a34>
+                                              <p data-v-b99e9a34>
+                                                <a class"a3" href="https://mavenbot.xyz/u/852979654977257534" target="_blank" data-v-0d81152b>
+                                                <i class="fas fa-link" data-v-0d81152b></i>
+                                                <span data-v-0d81152b>Website</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <!---->
+                                </div>
+                                <div class="column" data-v-b99e9a34>
+                                    <div data-v-b99e9a34>
+        </div>
+                                    <div class="columns is-multiline" data-v-b99e9a34></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    
+    <div class="sc-1659snh-0 eSjOZD">
+                <div class="fz1i6o-1 Row hlBFRk">
+                    <maventest>
+                        <span class="sc-1j4eqj8-0 cfUtWc">Maven</span>
+                        <p class="hvwg31-1 bwxDch">Copyright © 2020 - 2022 Max Development</p>
+                        </maventest>
+                            <div class="hvwg31-3 kpjVPj">
+                            <div class="hvwg31-2 sZecb">
+                            <a class="hvwg31-4-t gdGZhQ buttona" href="/">Home</a>
+                            <a class="hvwg31-4-t gdGZhQ buttona" href="https://docs.mavenbot.xyz/scrims">Scrims</a>
+                            <a class="hvwg31-4-t gdGZhQ buttona" href="https://docs.mavenbot.xyz/configs">Configurations</a>
+                            <a class="hvwg31-4-t gdGZhQ buttona" href="https://docs.mavenbot.xyz/manage">Management</a>
+                            </div>
+                            <div class="hvwg31-2 sZecb">
+                                <a href="/faq" class="hvwg31-4 hzBTNA buttona">FAQ</a>
+                                <a href="https://discord.com/invite/NNQkBWw" class="hvwg31-4 hzBTNA buttona">Support server</a>
+                                </div>
+                                <div class="hvwg31-2 sZecb">
+                                <a href="https://discord.com/terms" class="hvwg31-4 hzBTNA buttona">Discord Terms</a>
+                                <a href="/about" class="hvwg31-4 hzBTNA buttona">Team</a>
+                                <a href="/about" class="hvwg31-4 hzBTNA buttona">Contact</a>
+                                                </div>
+                                                </div>
+                                                </div>
+                                                </div>
+    
+                 </body>
+  <script>
+  includeHTML();
+</script>
+  </html>
