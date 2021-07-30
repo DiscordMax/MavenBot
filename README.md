@@ -2,3 +2,4 @@
 
 https://cdn.discordapp.com/emojis/870494248418562048.png?v=1
 https://cdn.discordapp.com/emojis/870494248972197920.png?v=1
+https://cdn.discordapp.com/emojis/870494248909279242.png?v=1
